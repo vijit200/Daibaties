@@ -1,0 +1,1 @@
+from daibatiesClassifier.components.data_ingestion import DataIngestion

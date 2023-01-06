@@ -1,0 +1,9 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source: archive.zip
+  unzip_dir: artifacts/data_ingestion
+  train_dir: artifacts/data_ingestion/train
+  test_dir: artifacts/data_ingestion/test

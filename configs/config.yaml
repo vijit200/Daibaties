@@ -13,4 +13,9 @@ data_transformation:
   train_data: artifacts/data_ingestion/train/train.csv
   test_data: artifacts/data_ingestion/test/test.csv
   transform_dir: artifacts/data_transform
-   
+  
+
+model_training:
+
+  train_data: artifacts/data_transform/train_main.csv
+  training_dir: artifacts/training

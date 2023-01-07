@@ -14,3 +14,8 @@ DataTransformationConfig = namedtuple("DataTransformationConfig", [
     "test_data",
     "transform_dir"
 ])
+
+DataTrainingConfig = namedtuple("DataTrainingConfig", [
+    "train_data",
+    "training_dir"
+])

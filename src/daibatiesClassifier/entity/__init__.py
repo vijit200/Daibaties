@@ -1,1 +1,1 @@
-from daibatiesClassifier.entity.config_entity import DataIngestionConfig,DataTransformationConfig
+from daibatiesClassifier.entity.config_entity import DataIngestionConfig,DataTransformationConfig,DataTrainingConfig

@@ -19,3 +19,9 @@ model_training:
 
   train_data: artifacts/data_transform/train_main.csv
   training_dir: artifacts/training
+
+model_evaluation:
+
+  test_data: artifacts/data_transform/test_main.csv
+  model: artifacts/training/model.pickle
+  scale: artifacts/training/scaling.pickle

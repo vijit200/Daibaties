@@ -19,3 +19,9 @@ DataTrainingConfig = namedtuple("DataTrainingConfig", [
     "train_data",
     "training_dir"
 ])
+
+DataEvaluationConfig = namedtuple("DataEvaluationConfig", [
+    "test_data",
+    "model",
+    "scale"
+])

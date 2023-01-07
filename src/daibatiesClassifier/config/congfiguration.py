@@ -1,7 +1,7 @@
 from daibatiesClassifier.utils import *
 from daibatiesClassifier.utils import read_yaml
 from daibatiesClassifier.constants import *
-from daibatiesClassifier.entity import DataIngestionConfig,DataTransformationConfig,DataTrainingConfig
+from daibatiesClassifier.entity import DataIngestionConfig,DataTransformationConfig,DataTrainingConfig,DataEvaluationConfig
 
 
 class ConfigurationManager:
@@ -56,3 +56,16 @@ class ConfigurationManager:
         )
 
         return data_training_config
+
+
+    def get_data_evaluation_config(self) -> DataEvaluationConfig:
+        config = self.config.model_evaluation
+        
+
+        data_evaluation_config = DataEvaluationConfig(
+            test_data = config.test_data,
+            model = config.model,
+            scale=config.scale
+        )
+
+        return data_evaluation_config

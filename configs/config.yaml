@@ -7,3 +7,10 @@ data_ingestion:
   unzip_dir: artifacts/data_ingestion
   train_dir: artifacts/data_ingestion/train
   test_dir: artifacts/data_ingestion/test
+
+data_transformation:
+
+  train_data: artifacts/data_ingestion/train/train.csv
+  test_data: artifacts/data_ingestion/test/test.csv
+  transform_dir: artifacts/data_transform
+   

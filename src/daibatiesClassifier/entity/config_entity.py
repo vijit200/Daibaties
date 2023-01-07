@@ -7,3 +7,10 @@ DataIngestionConfig = namedtuple("DataIngestionConfig", [
     "train_dir",
     "test_dir"
 ])
+
+
+DataTransformationConfig = namedtuple("DataTransformationConfig", [
+    "train_data",
+    "test_data",
+    "transform_dir"
+])

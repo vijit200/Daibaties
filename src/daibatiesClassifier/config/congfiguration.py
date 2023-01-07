@@ -1,7 +1,7 @@
 from daibatiesClassifier.utils import *
 from daibatiesClassifier.utils import read_yaml
 from daibatiesClassifier.constants import *
-from daibatiesClassifier.entity import DataIngestionConfig
+from daibatiesClassifier.entity import DataIngestionConfig,DataTransformationConfig
 
 
 class ConfigurationManager:
@@ -29,3 +29,16 @@ class ConfigurationManager:
         )
 
         return data_ingestion_config
+
+    def get_data_transform_config(self) -> DataTransformationConfig:
+        config = self.config.data_transformation
+        
+        create_directories(["artifacts/data_transform"])
+
+        data_transformation_config = DataTransformationConfig(
+            train_data=  config.train_data,
+            test_data=  config.test_data,
+            transform_dir= config.transform_dir
+        )
+
+        return data_transformation_config

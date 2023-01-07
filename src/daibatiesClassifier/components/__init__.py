@@ -1,1 +1,2 @@
 from daibatiesClassifier.components.data_ingestion import DataIngestion
+from daibatiesClassifier.components.data_transformation import DataTransformation

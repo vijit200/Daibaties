@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daibaties Prediction</title>
+</head>
+<body>
+    <div style="color: rgb(25, 25, 172);">
+        <section>
+            <h1>Daibaties Prediction</h1>
+            <form action="{{ url_for('predict')}}" method="POST">
+                <input type="text" name="Pregnancies" placeholder="Pregnancies" id="pr">
+                <br><br> <input type="text" name="Glucose" placeholder="Glucose" id="Gl">
+                <br><br><input type="text" name="BloodPressure" id="BP" placeholder="BloodPressure">
+                <br><br><input type="text" name="SkinThickness" id="Sk" placeholder="SkinThickness">
+                <br><br><input type="text" name="Insulin" id="In" placeholder="Insulin">
+                <br><br><input type="text" name="BMI" id="BM" placeholder="BMI">
+                <br><br><input type="text" name="DiabetesPedigreeFunction" id="Dp" placeholder="DiabetesPedigreeFunction">
+                <br><br><input type="text" name="Age" id="ag" placeholder="Age">
+                <br><br>
+                <button type="submit" id="sub">
+                    <b>Predict Daibaties</b>
+                </button>
+
+            </form>
+
+            <br><br>
+            <b>
+                <u>
+                    <i>
+                        <big>Daibaties</big>
+                    </i>
+                </u>
+            </b>
+            <b>:</b>
+            <b>{{predict_daibaties}}</b>
+        </section>
+    </div>
+</body>
+</html>

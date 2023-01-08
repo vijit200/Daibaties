@@ -1,6 +1,5 @@
 # Daibaties
 
-https://assets.telegraphindia.com/telegraph/5e5b81e5-e60f-42d9-8f3f-d2e5f1a691e1.jpg
-
+![image](https://user-images.githubusercontent.com/75209200/211184552-001f4322-6bce-4562-8f8b-fc1d7a0a4028.png)
 
 This app help to check are you a daibatic person or not

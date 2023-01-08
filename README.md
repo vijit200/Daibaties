@@ -1,3 +1,3 @@
 # Daibaties
 
-#b This app help to check are you a daibatic person or not
+This app help to check are you a daibatic person or not

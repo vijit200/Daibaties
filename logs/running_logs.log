@@ -1,0 +1,110 @@
+[2023-01-06 15:08:31,617: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:08:31,720: INFO: common]: yaml file: params.yaml loaded successfully
+[2023-01-06 15:09:19,421: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:09:19,422: INFO: common]: yaml file: params.yaml loaded successfully
+[2023-01-06 15:11:11,322: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:12:07,701: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:12:07,702: INFO: common]: yaml file: params.yaml loaded successfully
+[2023-01-06 15:12:44,379: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:12:44,380: INFO: common]: created directory at: artifacts
+[2023-01-06 15:13:08,894: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 15:18:28,669: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:18:28,670: INFO: common]: created directory at: artifacts
+[2023-01-06 15:18:28,672: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 15:19:39,507: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:19:39,507: INFO: common]: created directory at: artifacts
+[2023-01-06 15:19:39,508: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 15:19:49,043: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:19:49,043: INFO: common]: created directory at: artifacts
+[2023-01-06 15:19:49,044: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 15:23:02,010: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:23:02,111: INFO: common]: created directory at: artifacts
+[2023-01-06 15:23:02,112: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 15:25:51,759: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:25:51,761: INFO: common]: created directory at: artifacts
+[2023-01-06 15:25:51,762: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 15:31:20,273: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 15:31:20,273: INFO: common]: created directory at: artifacts
+[2023-01-06 15:31:20,274: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 16:21:58,877: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 16:21:58,996: INFO: common]: created directory at: artifacts
+[2023-01-06 16:21:58,997: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 16:23:13,425: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 16:23:13,426: INFO: common]: created directory at: artifacts
+[2023-01-06 16:23:13,426: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 16:42:14,484: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 16:42:14,486: INFO: common]: created directory at: artifacts
+[2023-01-06 16:42:14,488: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 16:48:55,476: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 16:49:54,965: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 16:49:54,966: INFO: common]: created directory at: artifacts
+[2023-01-06 16:49:54,966: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 16:50:02,971: INFO: common]: created directory at: artifacts/data_ingestion/train
+[2023-01-06 16:50:02,971: INFO: common]: created directory at: artifacts/data_ingestion/train
+[2023-01-06 16:51:24,124: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 16:51:24,126: INFO: common]: created directory at: artifacts
+[2023-01-06 16:51:24,127: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 16:51:26,029: INFO: common]: created directory at: artifacts/data_ingestion/train
+[2023-01-06 16:51:26,030: INFO: common]: created directory at: artifacts/data_ingestion/train
+[2023-01-06 16:57:02,397: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 16:57:05,799: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 16:57:05,800: INFO: common]: created directory at: artifacts
+[2023-01-06 16:57:05,815: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 16:57:11,734: INFO: common]: created directory at: artifacts/data_ingestion/train
+[2023-01-06 16:57:11,734: INFO: common]: created directory at: artifacts/data_ingestion/test
+[2023-01-06 17:36:31,959: INFO: data_ingestion_pipeline]: ==================== DATA INGESTION ====================
+[2023-01-06 17:36:31,961: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-06 17:36:31,961: INFO: common]: created directory at: artifacts
+[2023-01-06 17:36:32,065: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-06 17:36:32,081: INFO: common]: created directory at: artifacts/data_ingestion/train
+[2023-01-06 17:36:32,081: INFO: common]: created directory at: artifacts/data_ingestion/test
+[2023-01-06 17:36:32,088: INFO: data_ingestion_pipeline]: ====================DATA INGESTION COMPLETED====================
+[2023-01-07 15:36:15,557: INFO: data_ingestion_pipeline]: ==================== DATA INGESTION ====================
+[2023-01-07 15:36:15,678: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 15:36:15,683: INFO: common]: created directory at: artifacts
+[2023-01-07 15:36:15,684: INFO: common]: created directory at: artifacts/data_ingestion
+[2023-01-07 15:36:15,713: INFO: common]: created directory at: artifacts/data_ingestion/train
+[2023-01-07 15:36:15,714: INFO: common]: created directory at: artifacts/data_ingestion/test
+[2023-01-07 15:36:15,803: INFO: data_ingestion_pipeline]: ====================DATA INGESTION COMPLETED====================
+[2023-01-07 16:20:36,019: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 16:34:59,320: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 16:34:59,321: INFO: common]: created directory at: artifacts
+[2023-01-07 16:34:59,321: INFO: common]: created directory at: artifacts/data_transform
+[2023-01-07 16:48:38,051: INFO: data_transformation_pipeline]: ==================== DATA TRANSFORMATION ====================
+[2023-01-07 16:48:38,051: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 16:48:38,058: INFO: common]: created directory at: artifacts
+[2023-01-07 16:48:38,059: INFO: common]: created directory at: artifacts/data_transform
+[2023-01-07 16:48:38,100: INFO: data_transformation_pipeline]: ====================DATA TRANSFORMATION COMPLETED====================
+[2023-01-07 17:47:47,975: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 17:47:47,977: INFO: common]: created directory at: artifacts
+[2023-01-07 17:47:47,977: INFO: common]: created directory at: artifacts/training
+[2023-01-07 17:49:06,096: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 17:49:06,100: INFO: common]: created directory at: artifacts
+[2023-01-07 17:49:06,100: INFO: common]: created directory at: artifacts/training
+[2023-01-07 17:56:19,303: INFO: training_pipeline]: ==================== Model Training ====================
+[2023-01-07 17:56:19,303: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 17:56:19,303: INFO: common]: created directory at: artifacts
+[2023-01-07 17:56:19,303: INFO: common]: created directory at: artifacts/training
+[2023-01-07 17:56:20,261: INFO: training_pipeline]: ====================Model Training COMPLETED====================
+[2023-01-07 23:46:58,176: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:46:58,294: INFO: common]: created directory at: artifacts
+[2023-01-07 23:47:47,762: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:47:47,763: INFO: common]: created directory at: artifacts
+[2023-01-07 23:48:24,897: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:48:24,898: INFO: common]: created directory at: artifacts
+[2023-01-07 23:48:44,487: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:48:44,488: INFO: common]: created directory at: artifacts
+[2023-01-07 23:48:55,972: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:48:55,973: INFO: common]: created directory at: artifacts
+[2023-01-07 23:49:13,022: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:49:13,023: INFO: common]: created directory at: artifacts
+[2023-01-07 23:49:31,570: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:49:31,571: INFO: common]: created directory at: artifacts
+[2023-01-07 23:56:25,480: INFO: evaluation_pipeline]: ==================== Model Evaluation ====================
+[2023-01-07 23:56:25,482: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:56:25,483: INFO: common]: created directory at: artifacts
+[2023-01-07 23:56:25,507: INFO: evaluation_pipeline]: ====================Model Evaluation COMPLETED====================
+[2023-01-07 23:57:06,123: INFO: evaluation_pipeline]: ==================== Model Evaluation ====================
+[2023-01-07 23:57:06,141: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2023-01-07 23:57:06,141: INFO: common]: created directory at: artifacts
+[2023-01-07 23:57:06,159: INFO: evaluation_pipeline]: ====================Model Evaluation COMPLETED====================
